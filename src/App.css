@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.promo {
+  text-align: center;
+}
+
+p {
+  height: 140px;
+  overflow: scroll;
+  color: rgb(36, 36, 36) !important;
+  margin: 8px;
+}
+
+.carte {
+  min-height: 585px;
+  background-color: rgb(235, 235, 235) !important;
+  margin-bottom: 10px;
+  border: solid black 5px;
+}
+
+h5 {
+  color: tomato !important;
+}
+
+.formControl {
+  width: 96vw !important;
+}
+
+.total {
+  padding: 10px;
+}
+
+.row {
+  margin: auto 0 auto 0 !important;
+}
